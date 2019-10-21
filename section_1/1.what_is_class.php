@@ -21,4 +21,8 @@
   1. Set the name
   2. Set the age
   3. Display the name and Age
+
+  How to organize classes
+  1. Identify Classes in your program
+  2. Classes are specifications and they are not real.
 -->
